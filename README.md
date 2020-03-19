@@ -6,3 +6,4 @@ Awesome hilarious github repositories
 - [is-positive](https://github.com/kevva/is-positive)
 - [BIIIIIIRLL](https://github.com/birl-language/birl-language.github.io)
 - [RaffaLang](https://github.com/raffalang)
+- [get-H](https://github.com/joaogabrielzo/get-H)
