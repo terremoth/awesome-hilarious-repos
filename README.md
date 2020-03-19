@@ -6,3 +6,4 @@ Awesome hilarious github repositories
 - [is-positive](https://github.com/kevva/is-positive)
 - [BIIIIIIRLL](https://github.com/birl-language/birl-language.github.io)
 - [RaffaLang](https://github.com/raffalang)
+- [my_first_calculator](https://github.com/AceLewis/my_first_calculator.py)
