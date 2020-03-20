@@ -8,3 +8,4 @@ Awesome hilarious github repositories
 - [RaffaLang](https://github.com/raffalang)
 - [Penis.js](https://github.com/edankwan/penis.js/)
 - [The fuck](https://github.com/nvbn/thefuck)
+- [How To Exit Vim](https://github.com/hakluke/how-to-exit-vim)
