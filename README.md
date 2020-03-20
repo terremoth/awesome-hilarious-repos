@@ -11,3 +11,5 @@ Awesome hilarious github repositories
 - [Penis.js](https://github.com/edankwan/penis.js/)
 - [The fuck](https://github.com/nvbn/thefuck)
 - [How To Exit Vim](https://github.com/hakluke/how-to-exit-vim)
+- [Unmaintainable Code](https://github.com/Droogans/unmaintainable-code)
+- [Dumb Password Rules](https://github.com/dumb-password-rules/dumb-password-rules)
