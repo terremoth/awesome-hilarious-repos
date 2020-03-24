@@ -13,3 +13,5 @@ Awesome hilarious github repositories
 - [How To Exit Vim](https://github.com/hakluke/how-to-exit-vim)
 - [Unmaintainable Code](https://github.com/Droogans/unmaintainable-code)
 - [Dumb Password Rules](https://github.com/dumb-password-rules/dumb-password-rules)
+- [Safadometro Calculus in polyglot languages](https://github.com/ythecombinator/safadometro)
+- [Gemidão do Zap caller](https://github.com/haskellcamargo/gemidao-do-zap)
