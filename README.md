@@ -17,4 +17,4 @@ Awesome hilarious github repositories
 - [Gemidão do Zap caller](https://github.com/haskellcamargo/gemidao-do-zap)
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
 - [Simple easy PHP plus 2 numbers (wtf)](https://github.com/Herzult/SimplePHPEasyPlus)
-- 
+- [Hacker Scripts](https://github.com/NARKOZ/hacker-scripts)
