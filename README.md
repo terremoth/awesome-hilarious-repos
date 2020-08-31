@@ -18,3 +18,4 @@ Awesome hilarious github repositories
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
 - [Simple easy PHP plus 2 numbers (wtf)](https://github.com/Herzult/SimplePHPEasyPlus)
 - [Automated Hacker Scripts](https://github.com/NARKOZ/hacker-scripts)
+- [GitHub Drama](https://github.com/nikolas/github-drama) - lists of dramatic github discussions, lol
