@@ -3,6 +3,7 @@ Awesome hilarious github repositories
 
 - [nocode](https://github.com/kelseyhightower/nocode)
 - [FizzBuzz Enterprise edition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition)
+- [C++ `std::unique_ptr` that represents each object as an NFT on the Ethereum blockchain](https://github.com/zhuowei/nft_ptr)
 - [is-positive](https://github.com/kevva/is-positive)
 - [BIIIIIIRLL programming language](https://github.com/birl-language/birl-language.github.io)
 - [RaffaLang](https://github.com/raffalang)
