@@ -1,5 +1,9 @@
-# awesome-hilarious-repos
-Awesome hilarious github repositories
+# Awesome hilarious github repositories
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![license](https://img.shields.io/github/license/terremoth/awesome-hilarious-repos.svg)](/LICENSE)
+[![GitHub contributors](https://img.shields.io/github/contributors/terremoth/awesome-hilarious-repos.svg)](https://github.com/terremoth/awesome-hilarious-repos/graphs/contributors)
+
 
 - [nocode](https://github.com/kelseyhightower/nocode)
 - [FizzBuzz Enterprise edition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition)
