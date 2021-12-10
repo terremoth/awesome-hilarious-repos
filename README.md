@@ -25,3 +25,4 @@
 - [Automated Hacker Scripts](https://github.com/NARKOZ/hacker-scripts)
 - [GitHub Drama](https://github.com/nikolas/github-drama) - lists of dramatic github discussions, lol
 - [GentooWSL](https://github.com/imaandrew/GentooWSL?) - Gentoo on Windows? hmmm
+- [NPM All Fucking Packages](https://www.npmjs.com/package/npm-all-packages) - Yes, someone did this
