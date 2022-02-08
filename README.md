@@ -29,3 +29,4 @@
 - [StackOverflow Importer](https://github.com/drathier/stack-overflow-import)
 - [PHP Table Flip](https://github.com/sgolemon/table-flip) - if doesn't work, f\*ck this sh\*t
 - [Bad Licenses](https://github.com/ErikMcClure/bad-licenses) - A compendium of absurd, funny, and downright bad licenses
+- [Is Even](https://github.com/samuelmarina/is-even) - Is a number even?
