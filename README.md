@@ -36,3 +36,19 @@
 - [I-Made-THIS](https://github.com/alichtman/i-made-this) - Why build a impressive thing when lots of devs have already done it? So copy someone else's code and take credit for it!
 - [Hipku](https://github.com/gabemart/hipku) - JavaScript library to encode IPv6 and IPv4 addresses as [haiku](https://en.wikipedia.org/wiki/Haiku)
 - [Emojicode - the emoji programming language](https://github.com/emojicode/emojicode)
+- [Git Musak](https://github.com/mroth/git-muzak) - Inserts the currently playing iTunes or Spotify track in your git commit messages
+- [Git-self-blame](https://github.com/JacobEvelyn/git-self-blame) - is a simple git plugin that lets you take the blame for code you didn't write!!!
+- [Git-vanity-sha](https://github.com/mattbaker/git-vanity-sha) - try to tweak the commiter timestamp of your last commit to produce a commit SHA using the hexa prefix you supply
+- [lolcommits](https://github.com/lolcommits/lolcommits) - takes a snapshot with your webcam every time you git commit code, and archives a lolcat style image with it!
+- [NSA Product Generator](https://github.com/ternus/nsaproductgenerator) - the name tells everything
+- [is-thirteen npm package](https://github.com/jezen/is-thirteen) - verify if a number is equal 13 (wtfffff)
+- [Not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the \<body\> and decrease it every day until their site completely fades away!
+- [ArnoldC](https://github.com/lhartikk/ArnoldC) - Programming language based on the one-liners of Arnold Schwarzenegger.
+- [lolcat](https://github.com/busyloop/lolcat) - rainbows your terminal output!
+- [DADA.js](https://github.com/matthias-vogt/DADA.js) - plant something that looks like a Virus made of Windows 98 dialogs on your website
+----
+### Dev Jokes collection
+- https://github.com/shrutikapoor08/devjoke
+- https://github.com/taivop/joke-dataset
+- https://github.com/amoudgl/short-jokes-dataset
+- https://github.com/Sv443/JokeAPI
