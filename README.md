@@ -35,3 +35,4 @@
 - [30(500) Redirect Blame](https://github.com/will/redirect_blame) - Trick your users into thinking their internet is a little flaky? They'll keep refreshing until your deploy is over!
 - [I-Made-THIS](https://github.com/alichtman/i-made-this) - Why build a impressive thing when lots of devs have already done it? So copy someone else's code and take credit for it!
 - [Hipku](https://github.com/gabemart/hipku) - JavaScript library to encode IPv6 and IPv4 addresses as [haiku](https://en.wikipedia.org/wiki/Haiku)
+- [Emojicode - the emoji programming language](https://github.com/emojicode/emojicode)
