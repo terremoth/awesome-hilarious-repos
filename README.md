@@ -30,3 +30,8 @@
 - [PHP Table Flip](https://github.com/sgolemon/table-flip) - if doesn't work, f\*ck this sh\*t
 - [Bad Licenses](https://github.com/ErikMcClure/bad-licenses) - A compendium of absurd, funny, and downright bad licenses
 - [Is Even](https://github.com/samuelmarina/is-even) - Is a number even?
+- [UXVideos](https://github.com/kikobr/UXVIDEOS) - What if someone merges XVIDEOS website with UX content? lol
+- [volkswagen](https://github.com/auchenberg/volkswagen) - Volkswagen detects when your tests are being run in a CI server, and makes them pass!!!
+- [30(500) Redirect Blame](https://github.com/will/redirect_blame) - Trick your users into thinking their internet is a little flaky? They'll keep refreshing until your deploy is over!
+- [I-Made-THIS](https://github.com/alichtman/i-made-this) - Why build a impressive thing when lots of devs have already done it? So copy someone else's code and take credit for it!
+- [Hipku](https://github.com/gabemart/hipku) - JavaScript library to encode IPv6 and IPv4 addresses as [haiku](https://en.wikipedia.org/wiki/Haiku)
