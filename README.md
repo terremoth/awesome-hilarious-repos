@@ -19,6 +19,7 @@
 - [Dumb Password Rules](https://github.com/dumb-password-rules/dumb-password-rules)
 - [Safadometro Calculus in polyglot languages](https://github.com/ythecombinator/safadometro)
 - [Gemidão do Zap caller](https://github.com/haskellcamargo/gemidao-do-zap)
+- [Activate Linux Desktop Message - like Windows](https://github.com/MrGlockenspiel/activate-linux) - Why not?????????
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms)
 - [Simple easy PHP plus 2 numbers (wtf)](https://github.com/Herzult/SimplePHPEasyPlus)
 - [Automated Hacker Scripts](https://github.com/NARKOZ/hacker-scripts)
