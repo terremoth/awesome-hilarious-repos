@@ -47,6 +47,7 @@
 - [ArnoldC](https://github.com/lhartikk/ArnoldC) - Programming language based on the one-liners of Arnold Schwarzenegger.
 - [lolcat](https://github.com/busyloop/lolcat) - rainbows your terminal output!
 - [DADA.js](https://github.com/matthias-vogt/DADA.js) - plant something that looks like a Virus made of Windows 98 dialogs on your website
+- [BossSensor](https://github.com/Hironsan/BossSensor) - change the screen when your boss is approaching
 ----
 ### Dev Jokes collection
 - https://github.com/shrutikapoor08/devjoke
