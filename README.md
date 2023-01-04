@@ -40,6 +40,7 @@
 - [Git Musak](https://github.com/mroth/git-muzak) - Inserts the currently playing iTunes or Spotify track in your git commit messages
 - [Git-self-blame](https://github.com/JacobEvelyn/git-self-blame) - is a simple git plugin that lets you take the blame for code you didn't write!!!
 - [Git-vanity-sha](https://github.com/mattbaker/git-vanity-sha) - try to tweak the commiter timestamp of your last commit to produce a commit SHA using the hexa prefix you supply
+- [Potato](https://github.com/drtshock/Potato) - If you fork this you can say that you forked a potato. Forking potatoes is an ancient and well-mannered tradition.  
 - [lolcommits](https://github.com/lolcommits/lolcommits) - takes a snapshot with your webcam every time you git commit code, and archives a lolcat style image with it!
 - [NSA Product Generator](https://github.com/ternus/nsaproductgenerator) - the name tells everything
 - [is-thirteen npm package](https://github.com/jezen/is-thirteen) - verify if a number is equal 13 (wtfffff)
