@@ -51,6 +51,7 @@
 - [FuckItJs](https://github.com/mattdiamond/fuckitjs) - uses state-of-the-art technology to make sure your javascript code runs whether your compiler likes it or not.
 - [BossSensor](https://github.com/Hironsan/BossSensor) - change the screen when your boss is approaching
 - [hello-world.rs](https://github.com/mTvare6/hello-world.rs) - Hello world in blazingly fast Rust
+- [all-positive-integers-in-ascending-order](https://github.com/AndrewFeeney/all-positive-integers-in-ascending-order) - All positive integers in ascending order
 
 ----
 ### Dev Jokes collection
