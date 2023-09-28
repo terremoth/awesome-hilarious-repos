@@ -53,7 +53,7 @@
 - [BossSensor](https://github.com/Hironsan/BossSensor) - change the screen when your boss is approaching
 - [hello-world.rs](https://github.com/mTvare6/hello-world.rs) - Hello world in blazingly fast Rust
 - [UwU](https://github.com/PhoenXHO/UwU) - UwU is an esoteric dynamically-typed programming language.
-
+- [TotallyMaliciousCryptoBro](https://github.com/TotallyMaliciousCryptoBro/TotallyMaliciousCryptoBro) - it's real!!11!!
 ----
 ### Dev Jokes collection
 - https://github.com/shrutikapoor08/devjoke
