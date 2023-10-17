@@ -53,6 +53,14 @@
 - [BossSensor](https://github.com/Hironsan/BossSensor) - change the screen when your boss is approaching
 - [hello-world.rs](https://github.com/mTvare6/hello-world.rs) - Hello world in blazingly fast Rust
 - [UwU](https://github.com/PhoenXHO/UwU) - UwU is an esoteric dynamically-typed programming language.
+- [parrot.live](https://github.com/hugomd/parrot.live) - Run `curl parrot.live` to start a party!
+- [ascii-live](https://github.com/hugomd/ascii-live) - Curl-based animations
+- [TrumpScript](https://github.com/samshadwell/TrumpScript) - Donald Trump's programming language?
+- [Minegrub](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft!
+- [Bash Cat With Cat](https://github.com/GuidoFe/bash-cat-with-cat) - The classic cat command but with a cat
+- [http cats api](https://github.com/httpcats/http.cat) - You can use cats instead of HTTP errors
+- [DreamBerd programming language](https://github.com/TodePond/C) - If the link doesn't work, try [this](https://github.com/TodePond/DreamBerd). 
+- [FizzBuzz game](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition/tree/uinverse)
 
 ----
 ### Dev Jokes collection
