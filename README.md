@@ -15,10 +15,10 @@ List of all (?) available and funniest Github funny repos. Contribute if you kno
 - [UwU](https://github.com/PhoenXHO/UwU) - UwU is an esoteric dynamically-typed programming language.
 
 ## Git Related
-- [I-Made-THIS](https://github.com/alichtman/i-made-this) - Why build a impressive thing when lots of devs have already done it? So copy someone else's code and take credit for it!
 - [Git Musak](https://github.com/mroth/git-muzak) - Inserts the currently playing iTunes or Spotify track in your git commit messages
+- [I-Made-THIS](https://github.com/alichtman/i-made-this) - Why build impressive things when many devs already did it? So copy someone else's code and take credit for it!
 - [Git-self-blame](https://github.com/JacobEvelyn/git-self-blame) - is a simple git plugin that lets you take the blame for code you didn't write!!!
-- [Git-vanity-sha](https://github.com/mattbaker/git-vanity-sha) - try to tweak the commiter timestamp of your last commit to produce a commit SHA using the hexa prefix you supply
+- [Git-vanity-sha](https://github.com/mattbaker/git-vanity-sha) - try to tweak the last commit commiter's timestamp to create a commit SHA using the hex prefix you supply
 - [lolcommits](https://github.com/lolcommits/lolcommits) - takes a snapshot with your webcam every time you git commit code, and archives a lolcat style image with it!
 - [GitHub Drama](https://github.com/nikolas/github-drama) - lists of dramatic github discussions, lol
 
@@ -37,9 +37,9 @@ List of all (?) available and funniest Github funny repos. Contribute if you kno
 - [Is Even](https://github.com/samuelmarina/is-even) - Is a number even? 
 - [is-thirteen npm package](https://github.com/jezen/is-thirteen) - verify if a number is equal 13 (wtfffff)
 - [Simple easy PHP plus 2 numbers (wtf)](https://github.com/Herzult/SimplePHPEasyPlus) - the best enterprised and standadized code to sum to numbers in PHP! 
-- [Not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the \<body\> and decrease it every day until their site completely fades away!
+- [Not-paid](https://github.com/kleampa/not-paid) - User didnt pay? Add opacity to the \<body\> and decrease every day until his website completely fades away!
 - [Hipku](https://github.com/gabemart/hipku) - JavaScript library to encode IPv6 and IPv4 addresses as [haiku](https://en.wikipedia.org/wiki/Haiku)
-- [FuckItJs](https://github.com/mattdiamond/fuckitjs) - uses state-of-the-art technology to make sure your javascript code runs whether your compiler likes it or not.
+- [FuckItJs](https://github.com/mattdiamond/fuckitjs) - uses state-of-the-art tech to make sure your JS code runs whether your compiler likes it or not
 - [DADA.js](https://github.com/matthias-vogt/DADA.js) - plant something that looks like a Virus made of Windows 98 dialogs on your website
 - [NPM All Fucking Packages](https://www.npmjs.com/package/npm-all-packages) - Yes, someone did this
 - [Penis.js](https://github.com/edankwan/penis.js/) - what if you want to "compare" things size? if you know what I mean ( ͡° ͜ʖ ͡°)
@@ -53,13 +53,13 @@ List of all (?) available and funniest Github funny repos. Contribute if you kno
 - [hello-world.rs](https://github.com/mTvare6/hello-world.rs) - Hello world in blazingly fast Rust
 - [BossSensor](https://github.com/Hironsan/BossSensor) - change the screen when your boss is approaching
 - [The fuck](https://github.com/nvbn/thefuck) - magnificent app, that corrects errors in previous console commands
-- [get-H](https://github.com/joaogabrielzo/get-H) - if you want to use the `h` uppercase char, this script goes to the "Horse" Wikipedia page and copies the char for you!
-- [Safadometro Calculus in polyglot languages](https://github.com/ythecombinator/safadometro) - calculate how "naughty" someone is based on [Wesley Safadão](https://en.wikipedia.org/wiki/Wesley_Safad%C3%A3o) algorithm 
+- [get-H](https://github.com/joaogabrielzo/get-H) - if you wanna use the `h` uppercase char, this goes to the Wikipedia Horse's page and copies it for you!
+- [Safadometro Calc](https://github.com/ythecombinator/safadometro) on many langs - calculate how "naughty" someone is based on [Wesley Safadão](https://en.wikipedia.org/wiki/Wesley_Safad%C3%A3o)'s algorithm 
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms) - bunch of funny algorithms, beginners friendly
 - [GentooWSL](https://github.com/imaandrew/GentooWSL) - Have you ever wanted to run Gentoo on Windows? No? Me neither. Introducing GentooWSL
 - [UXVideos](https://github.com/kikobr/UXVIDEOS) - What if someone merges XVIDEOS website with UX content? lol
 - [volkswagen](https://github.com/auchenberg/volkswagen) - Volkswagen detects when your tests are being run in a CI server, and makes them pass!!!
-- [30(500) Redirect Blame](https://github.com/will/redirect_blame) - Trick your users into thinking their internet is a little flaky? They'll keep refreshing until your deploy is over!
+- [30(500) Redirect Blame](https://github.com/will/redirect_blame) - Trick users into thinking their internet is slow! They'll keep reloading until the deploy is over!
 - [NSA Product Generator](https://github.com/ternus/nsaproductgenerator) - the name tells everything
 - [Minegrub](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft! (this pearson is a genius)
 - [http cats api](https://github.com/httpcats/http.cat) - You can use cats instead of HTTP errors
@@ -79,6 +79,3 @@ List of all (?) available and funniest Github funny repos. Contribute if you kno
 ### Sorry, Idk how to categorize/tag/label this project
 - [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee)
 - [Potato](https://github.com/drtshock/Potato) - If you fork this you can say that you forked a potato. Forking potatoes is an ancient and well-mannered tradition.  
-
-
-
