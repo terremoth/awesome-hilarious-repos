@@ -60,7 +60,6 @@
 - [Bash Cat With Cat](https://github.com/GuidoFe/bash-cat-with-cat) - The classic cat command but with a cat
 - [http cats api](https://github.com/httpcats/http.cat) - You can use cats instead of HTTP errors
 - [DreamBerd programming language](https://github.com/TodePond/C) - If the link doesn't work, try [this](https://github.com/TodePond/DreamBerd). 
-- [FizzBuzz game](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition/tree/uinverse)
 
 ----
 ### Dev Jokes collection
