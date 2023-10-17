@@ -46,7 +46,7 @@ List of all (?) available and funniest Github funny repos. Contribute if you kno
 - [Penis.js](https://github.com/edankwan/penis.js/) - what if you want to "compare" things size? if you know what I mean ( ͡° ͜ʖ ͡°)
 
 ## Standalone projects
-- [my_first_calculator](https://github.com/AceLewis/my_first_calculator.py) - the BEST way EVER to build command line calculater, look the source code
+- [my_first_calculator](https://github.com/AceLewis/my_first_calculator.py) - the BEST way EVER to build command line calculators, look the source code
 - [FizzBuzz Enterprise edition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - following all possible standards and patterns to write a FizzBuzz
 - [my first tic tac toe](https://github.com/asweigart/my_first_tic_tac_toe) - this is the best way to write this, for sure
 - [Activate Linux Desktop Message - like Windows](https://github.com/MrGlockenspiel/activate-linux) - Why not?????????
