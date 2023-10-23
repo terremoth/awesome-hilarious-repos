@@ -4,7 +4,7 @@
 [![license](https://img.shields.io/github/license/terremoth/awesome-hilarious-repos.svg)](/LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/terremoth/awesome-hilarious-repos.svg)](https://github.com/terremoth/awesome-hilarious-repos/graphs/contributors)  
 
-List of all (?) available and funniest Github funny repos. Contribute if you know others!
+List of all (?) available and funniest Github repos. Contribute if you know others!
 
 ## Programming Languages
 - [Emojicode](https://github.com/emojicode/emojicode) - the emoji programming language
