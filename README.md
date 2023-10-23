@@ -64,6 +64,7 @@ List of all (?) available and funniest Github funny repos. Contribute if you kno
 - [NSA Product Generator](https://github.com/ternus/nsaproductgenerator) - the name tells everything
 - [Minegrub](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft! (this pearson is a genius)
 - [http cats api](https://github.com/httpcats/http.cat) - You can use cats instead of HTTP errors
+- [ButtFish](https://github.com/RonSijm/ButtFish) - Transmitting Morse Code of chess moves to your butthole ([explanation](https://www.reddit.com/r/HobbyDrama/comments/10tin5t/chess_go_shove_it_up_your_ass_the_story_of_hans/))
 
 ## Rules, Advices, Licenses, Standards & Patterns
 - [How To Exit Vim](https://github.com/hakluke/how-to-exit-vim), check also [VIMKiller](https://github.com/caseykneale/VIMKiller)!
