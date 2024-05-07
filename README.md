@@ -51,7 +51,6 @@ List of all (?) available and funniest Github repos. Contribute if you know othe
 - [my first tic tac toe](https://github.com/asweigart/my_first_tic_tac_toe) - this is the best way to write this, for sure
 - [Activate Linux Desktop Message - like Windows](https://github.com/MrGlockenspiel/activate-linux) - Why not?????????
 - [Gemidão do Zap caller](https://github.com/haskellcamargo/gemidao-do-zap) - call people and perform Alexis Texas famous moaning "aaaawnn awwwnnn"
-- [hello-world.rs](https://github.com/mTvare6/hello-world.rs) - Hello world in blazingly fast Rust
 - [BossSensor](https://github.com/Hironsan/BossSensor) - change the screen when your boss is approaching
 - [The fuck](https://github.com/nvbn/thefuck) - magnificent app, that corrects errors in previous console commands
 - [get-H](https://github.com/joaogabrielzo/get-H) - if you wanna use the `h` uppercase char, this goes to the Wikipedia Horse's page and copies it for you!
