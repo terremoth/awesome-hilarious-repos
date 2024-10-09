@@ -21,7 +21,7 @@ List of all (?) available and funniest GitHub repos. Contribute if you know othe
 - [Git-self-blame](https://github.com/JacobEvelyn/git-self-blame) - is a simple git plugin that lets you take the blame for code you didn't write!!!
 - [Git-vanity-sha](https://github.com/mattbaker/git-vanity-sha) - try to tweak the last commit commiter's timestamp to create a commit SHA using the hex prefix you supply
 - [lolcommits](https://github.com/lolcommits/lolcommits) - takes a snapshot with your webcam every time you git commit code, and archives a lolcat style image with it!
-- [GitHub Drama](https://github.com/nikolas/github-drama) - lists of dramatic github discussions, lol
+- [GitHub Drama](https://github.com/neodrama/github-drama) - lists of dramatic github discussions, lol
 
 ## Command line utilities scripts
 - [lolcat](https://github.com/busyloop/lolcat) - rainbows your terminal output!
