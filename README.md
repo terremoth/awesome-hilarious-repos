@@ -22,6 +22,7 @@ List of all (?) available and funniest GitHub repos. Contribute if you know othe
 - [Git-vanity-sha](https://github.com/mattbaker/git-vanity-sha) - try to tweak the last commit commiter's timestamp to create a commit SHA using the hex prefix you supply
 - [lolcommits](https://github.com/lolcommits/lolcommits) - takes a snapshot with your webcam every time you git commit code, and archives a lolcat style image with it!
 - [GitHub Drama](https://github.com/neodrama/github-drama) - lists of dramatic github discussions, lol
+- [make-it-taylors-version](https://github.com/ipc103/make-it-taylors-version) - GitHub Action to edit any Issue, Pull Request, or Discussion title with the number 1989 from "Title" to "Title (Taylor's Version).
 
 ## Command line utilities scripts
 - [lolcat](https://github.com/busyloop/lolcat) - rainbows your terminal output!
@@ -31,7 +32,7 @@ List of all (?) available and funniest GitHub repos. Contribute if you know othe
 - [Automated Hacker Scripts](https://github.com/NARKOZ/hacker-scripts) - if you like automation, this one is for you
 
 ## Libraries, Frameworks and SDKs
-- [C++ `std::unique_ptr`](https://github.com/zhuowei/nft_ptr) - represents each object as an NFT on the Ethereum blockchain]
+- [C++ `std::unique_ptr`](https://github.com/zhuowei/nft_ptr) - represents each object as an NFT on the Ethereum blockchain
 - [is-positive](https://github.com/kevva/is-positive) - check whether a number is positive or not (sadly some people use this omg) 
 - [StackOverflow Importer](https://github.com/drathier/stack-overflow-import) - if you don't know the how to do it, just import some StackOverflow's answer's code
 - [PHP Table Flip](https://github.com/sgolemon/table-flip) - if doesn't work, f\*ck this sh\*t
@@ -44,6 +45,7 @@ List of all (?) available and funniest GitHub repos. Contribute if you know othe
 - [DADA.js](https://github.com/matthias-vogt/DADA.js) - plant something that looks like a Virus made of Windows 98 dialogs on your website
 - [NPM All Fucking Packages](https://www.npmjs.com/package/npm-all-packages) - Yes, someone did this
 - [Penis.js](https://github.com/edankwan/penis.js/) - what if you want to "compare" things size? if you know what I mean ( ͡° ͜ʖ ͡°)
+- [five.js](https://github.com/jackdclark/five) - JavaScript Library to overcomplicate the number 5
 
 ## Standalone projects
 - [my_first_calculator](https://github.com/AceLewis/my_first_calculator.py) - the BEST way EVER to build command line calculators, look the source code
@@ -64,6 +66,7 @@ List of all (?) available and funniest GitHub repos. Contribute if you know othe
 - [Minegrub](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft! (this pearson is a genius)
 - [http cats api](https://github.com/httpcats/http.cat) - You can use cats instead of HTTP errors
 - [ButtFish](https://github.com/RonSijm/ButtFish) - Transmitting Morse Code of chess moves to your butthole ([explanation](https://www.reddit.com/r/HobbyDrama/comments/10tin5t/chess_go_shove_it_up_your_ass_the_story_of_hans/))
+ - [Anime Girls Holding Programmings books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) Anime Girls Holding Programming Books in every programming language. That is all.
 
 ## Rules, Advices, Licenses, Standards & Patterns
 - [How To Exit Vim](https://github.com/hakluke/how-to-exit-vim), check also [VIMKiller](https://github.com/caseykneale/VIMKiller)!
