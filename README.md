@@ -67,6 +67,9 @@ List of all (?) available and funniest GitHub repos. Contribute if you know othe
 - [http cats api](https://github.com/httpcats/http.cat) - You can use cats instead of HTTP errors
 - [ButtFish](https://github.com/RonSijm/ButtFish) - Transmitting Morse Code of chess moves to your butthole ([explanation](https://www.reddit.com/r/HobbyDrama/comments/10tin5t/chess_go_shove_it_up_your_ass_the_story_of_hans/))
  - [Anime Girls Holding Programmings books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) Anime Girls Holding Programming Books in every programming language. That is all.
+ - [TheDonutProject](https://github.com/EvanZhouDev/TheDonutProject) Making donuts in every language
+ - [hello-world](https://github.com/leachim6/hello-world) Do you know how to write "hello world" in any language?
+ - [small](https://github.com/mathiasbynens/small) Smallest possible syntactically valid files of different types
 
 ## Rules, Advices, Licenses, Standards & Patterns
 - [How To Exit Vim](https://github.com/hakluke/how-to-exit-vim), check also [VIMKiller](https://github.com/caseykneale/VIMKiller)!
