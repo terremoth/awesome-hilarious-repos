@@ -82,4 +82,5 @@ List of all (?) available and funniest GitHub repos. Contribute if you know othe
 
 ### Sorry, Idk how to categorize/tag/label this project
 - [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee)
-- [Potato](https://github.com/drtshock/Potato) - If you fork this you can say that you forked a potato. Forking potatoes is an ancient and well-mannered tradition.  
+- [Potato](https://github.com/drtshock/Potato) - If you fork this you can say that you forked a potato. Forking potatoes is an ancient and well-mannered tradition.
+- [Fucking-Websites](https://github.com/Kuberwastaken/awesome-fucking-websites) - A curated list of websites that tell you to just use the fucking tool.
