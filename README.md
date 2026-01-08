@@ -46,6 +46,7 @@ List of all (?) available and funniest GitHub repos. Contribute if you know othe
 - [NPM All Fucking Packages](https://www.npmjs.com/package/npm-all-packages) - Yes, someone did this
 - [Penis.js](https://github.com/edankwan/penis.js/) - what if you want to "compare" things size? if you know what I mean ( ͡° ͜ʖ ͡°)
 - [five.js](https://github.com/jackdclark/five) - JavaScript Library to overcomplicate the number 5
+- [FalseJS](https://github.com/enterprise-npm-ai/FalseJS) - JS library that makes sure false always exists by redefining it in every possible (and impossible) way.
 
 ## Standalone projects
 - [my_first_calculator](https://github.com/AceLewis/my_first_calculator.py) - the BEST way EVER to build command line calculators, look the source code
