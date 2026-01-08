@@ -73,6 +73,7 @@ List of all (?) available and funniest GitHub repos. Contribute if you know othe
 - [Unmaintainable Code](https://github.com/Droogans/unmaintainable-code) - Patterns to (un)maintain your software projects
 - [Dumb Password Rules](https://github.com/dumb-password-rules/dumb-password-rules) - The best rules to create passwords!!1!1
 - [Bad Licenses](https://github.com/ErikMcClure/bad-licenses) - A compendium of absurd, funny, and downright bad licenses
+- [Anal Guide](https://github.com/regdude/anal) - A comprehensive technical guide regarding anal sex.
 
 ## Dev Jokes collection (datasets)
 - https://github.com/shrutikapoor08/devjoke
