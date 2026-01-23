@@ -47,8 +47,10 @@ List of all (?) available and funniest GitHub repos. Contribute if you know othe
 - [Penis.js](https://github.com/edankwan/penis.js/) - what if you want to "compare" things size? if you know what I mean ( ͡° ͜ʖ ͡°)
 - [five.js](https://github.com/jackdclark/five) - JavaScript Library to overcomplicate the number 5
 - [FalseJS](https://github.com/enterprise-npm-ai/FalseJS) - JS library that makes sure false always exists by redefining it in every possible (and impossible) way.
+- [CobDOMinate](https://github.com/BalakeKarbon/CobDOMinate) - Manipulate the HTML DOM like you mean _business_. ([article](https://medium.com/@karboncodes/writing-web-apps-in-cobol-a18f74dc44f5))
 
 ## Standalone projects
+- [cobol-website](https://github.com/BalakeKarbon/cobol-website) - Choose 67 years of institutional knowledge over a buzzword front-end framework. ([article](https://medium.com/@karboncodes/writing-web-apps-in-cobol-a18f74dc44f5))
 - [my_first_calculator](https://github.com/AceLewis/my_first_calculator.py) - the BEST way EVER to build command line calculators, look the source code
 - [FizzBuzz Enterprise edition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - following all possible standards and patterns to write a FizzBuzz
 - [my first tic tac toe](https://github.com/asweigart/my_first_tic_tac_toe) - this is the best way to write this, for sure
@@ -68,7 +70,7 @@ List of all (?) available and funniest GitHub repos. Contribute if you know othe
 - [http cats api](https://github.com/httpcats/http.cat) - You can use cats instead of HTTP errors
 - [ButtFish](https://github.com/RonSijm/ButtFish) - Transmitting Morse Code of chess moves to your butthole ([explanation](https://www.reddit.com/r/HobbyDrama/comments/10tin5t/chess_go_shove_it_up_your_ass_the_story_of_hans/))
  - [Anime Girls Holding Programmings books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) Anime Girls Holding Programming Books in every programming language. That is all.
-- [Kognit](https://github.com/Pomilon/Kognit) - Feed it your GitHub username, get glazed or roasted by an AI that understands your architectural sins.
+ - [Kognit](https://github.com/Pomilon/Kognit) - Feed it your GitHub username, get glazed or roasted by an AI that understands your architectural sins.
 
 ## Rules, Advices, Licenses, Standards & Patterns
 - [How To Exit Vim](https://github.com/hakluke/how-to-exit-vim), check also [VIMKiller](https://github.com/caseykneale/VIMKiller)!
