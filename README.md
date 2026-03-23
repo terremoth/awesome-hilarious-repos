@@ -14,6 +14,7 @@ List of all (?) available and funniest GitHub repos. Contribute if you know othe
 - [DreamBerd programming language](https://github.com/TodePond/C) - If the link doesn't work, try [this](https://github.com/TodePond/DreamBerd)
 - [TrumpScript](https://github.com/samshadwell/TrumpScript) - Donald Trump's programming language?
 - [UwU](https://github.com/PhoenXHO/UwU) - UwU is an esoteric dynamically-typed programming language.
+- [GulfOfMexico](https://github.com/TodePond/GulfOfMexico) - The Perfect Programming Language
 
 ## Git Related
 - [Git Musak](https://github.com/mroth/git-muzak) - Inserts the currently playing iTunes or Spotify track in your git commit messages
