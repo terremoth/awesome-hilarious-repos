@@ -52,6 +52,7 @@ List of all (?) available and funniest GitHub repos. Contribute if you know othe
 ## Standalone projects
 - [my_first_calculator](https://github.com/AceLewis/my_first_calculator.py) - the BEST way EVER to build command line calculators, look the source code
 - [FizzBuzz Enterprise edition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - following all possible standards and patterns to write a FizzBuzz
+- [EnterpriseFizzBuzz](https://github.com/Elijah-J/EnterpriseFizzBuzz) - 622K lines of production-grade FizzBuzz with 253 infrastructure subsystems, including a blockchain, neural network, quantum simulator, and OS kernel.
 - [my first tic tac toe](https://github.com/asweigart/my_first_tic_tac_toe) - this is the best way to write this, for sure
 - [Activate Linux Desktop Message - like Windows](https://github.com/MrGlockenspiel/activate-linux) - Why not?????????
 - [Gemidão do Zap caller](https://github.com/haskellcamargo/gemidao-do-zap) - call people and perform Alexis Texas famous moaning "aaaawnn awwwnnn"
