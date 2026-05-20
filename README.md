@@ -15,6 +15,7 @@ List of all (?) available and funniest GitHub repos. Contribute if you know othe
 - [TrumpScript](https://github.com/samshadwell/TrumpScript) - Donald Trump's programming language?
 - [UwU](https://github.com/PhoenXHO/UwU) - UwU is an esoteric dynamically-typed programming language.
 - [GulfOfMexico](https://github.com/TodePond/GulfOfMexico) - The Perfect Programming Language
+- [Commitment Issues](https://github.com/dotsystemsdevs/commitmentissues) - Free open-source web app that issues a satirical "death certificate" for abandoned GitHub repos — algorithmic cause of death, last commit as last words, severity score, profile graveyard scan.
 
 ## Git Related
 - [Git Musak](https://github.com/mroth/git-muzak) - Inserts the currently playing iTunes or Spotify track in your git commit messages
