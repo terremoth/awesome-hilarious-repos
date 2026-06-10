@@ -2,11 +2,12 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![license](https://img.shields.io/github/license/terremoth/awesome-hilarious-repos.svg)](/LICENSE)
-[![GitHub contributors](https://img.shields.io/github/contributors/terremoth/awesome-hilarious-repos.svg)](https://github.com/terremoth/awesome-hilarious-repos/graphs/contributors)  
+[![GitHub contributors](https://img.shields.io/github/contributors/terremoth/awesome-hilarious-repos.svg)](https://github.com/terremoth/awesome-hilarious-repos/graphs/contributors)
 
 List of all (?) available and funniest GitHub repos. Contribute if you know others!
 
 ## Programming Languages
+
 - [Emojicode](https://github.com/emojicode/emojicode) - the emoji programming language
 - [nocode](https://github.com/kelseyhightower/nocode) - ` `
 - [BIIIIIIRLL programming language](https://github.com/birl-language/birl-language.github.io) - Bambam's "It's show time" Recursive Language
@@ -17,6 +18,7 @@ List of all (?) available and funniest GitHub repos. Contribute if you know othe
 - [GulfOfMexico](https://github.com/TodePond/GulfOfMexico) - The Perfect Programming Language
 
 ## Git Related
+
 - [Git Musak](https://github.com/mroth/git-muzak) - Inserts the currently playing iTunes or Spotify track in your git commit messages
 - [I-Made-THIS](https://github.com/alichtman/i-made-this) - Why build impressive things when many devs already did it? So copy someone else's code and take credit for it!
 - [Git-self-blame](https://github.com/JacobEvelyn/git-self-blame) - is a simple git plugin that lets you take the blame for code you didn't write!!!
@@ -26,6 +28,7 @@ List of all (?) available and funniest GitHub repos. Contribute if you know othe
 - [make-it-taylors-version](https://github.com/ipc103/make-it-taylors-version) - GitHub Action to edit any Issue, Pull Request, or Discussion title with the number 1989 from "Title" to "Title (Taylor's Version).
 
 ## Command line utilities scripts
+
 - [lolcat](https://github.com/busyloop/lolcat) - rainbows your terminal output!
 - [parrot.live](https://github.com/hugomd/parrot.live) - Run `curl parrot.live` to start a party!
 - [ascii-live](https://github.com/hugomd/ascii-live) - Curl-based animations
@@ -33,13 +36,14 @@ List of all (?) available and funniest GitHub repos. Contribute if you know othe
 - [Automated Hacker Scripts](https://github.com/NARKOZ/hacker-scripts) - if you like automation, this one is for you
 
 ## Libraries, Frameworks and SDKs
+
 - [C++ `std::unique_ptr`](https://github.com/zhuowei/nft_ptr) - represents each object as an NFT on the Ethereum blockchain
-- [is-positive](https://github.com/kevva/is-positive) - check whether a number is positive or not (sadly some people use this omg) 
+- [is-positive](https://github.com/kevva/is-positive) - check whether a number is positive or not (sadly some people use this omg)
 - [StackOverflow Importer](https://github.com/drathier/stack-overflow-import) - if you don't know the how to do it, just import some StackOverflow's answer's code
 - [PHP Table Flip](https://github.com/sgolemon/table-flip) - if doesn't work, f\*ck this sh\*t
-- [Is Even](https://github.com/samuelmarina/is-even) - Is a number even? 
+- [Is Even](https://github.com/samuelmarina/is-even) - Is a number even?
 - [is-thirteen npm package](https://github.com/jezen/is-thirteen) - verify if a number is equal 13 (wtfffff)
-- [Simple easy PHP plus 2 numbers (wtf)](https://github.com/Herzult/SimplePHPEasyPlus) - the best enterprised and standadized code to sum to numbers in PHP! 
+- [Simple easy PHP plus 2 numbers (wtf)](https://github.com/Herzult/SimplePHPEasyPlus) - the best enterprised and standadized code to sum to numbers in PHP!
 - [Not-paid](https://github.com/kleampa/not-paid) - User didnt pay? Add opacity to the \<body\> and decrease every day until his website completely fades away!
 - [Hipku](https://github.com/gabemart/hipku) - JavaScript library to encode IPv6 and IPv4 addresses as [haiku](https://en.wikipedia.org/wiki/Haiku)
 - [FuckItJs](https://github.com/mattdiamond/fuckitjs) - uses state-of-the-art tech to make sure your JS code runs whether your compiler likes it or not
@@ -50,6 +54,7 @@ List of all (?) available and funniest GitHub repos. Contribute if you know othe
 - [FalseJS](https://github.com/enterprise-npm-ai/FalseJS) - JS library that makes sure false always exists by redefining it in every possible (and impossible) way.
 
 ## Standalone projects
+
 - [Obamify](https://github.com/Spu7Nix/obamify) - "revolutionary new technology that turns any image into Obama"
 - [my_first_calculator](https://github.com/AceLewis/my_first_calculator.py) - the BEST way EVER to build command line calculators, look the source code
 - [FizzBuzz Enterprise edition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - following all possible standards and patterns to write a FizzBuzz
@@ -60,7 +65,7 @@ List of all (?) available and funniest GitHub repos. Contribute if you know othe
 - [BossSensor](https://github.com/Hironsan/BossSensor) - change the screen when your boss is approaching
 - [The fuck](https://github.com/nvbn/thefuck) - magnificent app, that corrects errors in previous console commands
 - [get-H](https://github.com/joaogabrielzo/get-H) - if you wanna use the `h` uppercase char, this goes to the Wikipedia Horse's page and copies it for you!
-- [Safadometro Calc](https://github.com/ythecombinator/safadometro) on many langs - calculate how "naughty" someone is based on [Wesley Safadão](https://en.wikipedia.org/wiki/Wesley_Safad%C3%A3o)'s algorithm 
+- [Safadometro Calc](https://github.com/ythecombinator/safadometro) on many langs - calculate how "naughty" someone is based on [Wesley Safadão](https://en.wikipedia.org/wiki/Wesley_Safad%C3%A3o)'s algorithm
 - [Funny Algorithms](https://github.com/ReciHub/FunnyAlgorithms) - bunch of funny algorithms, beginners friendly
 - [GentooWSL](https://github.com/imaandrew/GentooWSL) - Have you ever wanted to run Gentoo on Windows? No? Me neither. Introducing GentooWSL
 - [UXVideos](https://github.com/kikobr/UXVIDEOS) - What if someone merges XVIDEOS website with UX content? lol
@@ -70,10 +75,14 @@ List of all (?) available and funniest GitHub repos. Contribute if you know othe
 - [Minegrub](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft! (this pearson is a genius)
 - [http cats api](https://github.com/httpcats/http.cat) - You can use cats instead of HTTP errors
 - [ButtFish](https://github.com/RonSijm/ButtFish) - Transmitting Morse Code of chess moves to your butthole ([explanation](https://www.reddit.com/r/HobbyDrama/comments/10tin5t/chess_go_shove_it_up_your_ass_the_story_of_hans/))
- - [Anime Girls Holding Programmings books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) Anime Girls Holding Programming Books in every programming language. That is all.
+- [Anime Girls Holding Programmings books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) Anime Girls Holding Programming Books in every programming language. That is all.
 - [Kognit](https://github.com/Pomilon/Kognit) - Feed it your GitHub username, get glazed or roasted by an AI that understands your architectural sins.
+- [ratty](https://github.com/orhun/ratty) - a terminal for rodents 🐀🧀
+- [linusrants](https://github.com/corollari/linusrants) - Linus' rants classified by amount of hate.
+- [codemaxxing](https://github.com/jshchnz/codemaxxing) - write enterprise-grade code on the fly. Because quantity is quality (Elon Musk certified).
 
 ## Rules, Advices, Licenses, Standards & Patterns
+
 - [How To Exit Vim](https://github.com/hakluke/how-to-exit-vim), check also [VIMKiller](https://github.com/caseykneale/VIMKiller)!
 - [Unmaintainable Code](https://github.com/Droogans/unmaintainable-code) - Patterns to (un)maintain your software projects
 - [Dumb Password Rules](https://github.com/dumb-password-rules/dumb-password-rules) - The best rules to create passwords!!1!1
@@ -81,12 +90,14 @@ List of all (?) available and funniest GitHub repos. Contribute if you know othe
 - [Anal Guide](https://github.com/regdude/anal) - A comprehensive technical guide regarding anal sex.
 
 ## Dev Jokes collection (datasets)
-- https://github.com/shrutikapoor08/devjoke
-- https://github.com/taivop/joke-dataset
-- https://github.com/amoudgl/short-jokes-dataset
-- https://github.com/Sv443/JokeAPI
+
+- <https://github.com/shrutikapoor08/devjoke>
+- <https://github.com/taivop/joke-dataset>
+- <https://github.com/amoudgl/short-jokes-dataset>
+- <https://github.com/Sv443/JokeAPI>
 
 ### Sorry, Idk how to categorize/tag/label this project
+
 - [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee)
 - [Potato](https://github.com/drtshock/Potato) - If you fork this you can say that you forked a potato. Forking potatoes is an ancient and well-mannered tradition.
 - [Fucking-Websites](https://github.com/Kuberwastaken/awesome-fucking-websites) - A curated list of websites that tell you to just use the fucking tool.
