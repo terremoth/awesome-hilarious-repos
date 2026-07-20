@@ -78,6 +78,7 @@ List of all (?) available and funniest GitHub repos. Contribute if you know othe
 - [ButtFish](https://github.com/RonSijm/ButtFish) - Transmitting Morse Code of chess moves to your butthole ([explanation](https://www.reddit.com/r/HobbyDrama/comments/10tin5t/chess_go_shove_it_up_your_ass_the_story_of_hans/))
 - [Anime Girls Holding Programmings books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) Anime Girls Holding Programming Books in every programming language. That is all.
 - [Kognit](https://github.com/Pomilon/Kognit) - Feed it your GitHub username, get glazed or roasted by an AI that understands your architectural sins.
+- [inference_conference](https://github.com/rxdt/inference_conference) - AI agents build model recommenders, then hold a peer-review conference and reject all of them.
 - [ratty](https://github.com/orhun/ratty) - a terminal for rodents 🐀🧀
 - [linusrants](https://github.com/corollari/linusrants) - Linus' rants classified by amount of hate.
 - [codemaxxing](https://github.com/jshchnz/codemaxxing) - write enterprise-grade code on the fly. Because quantity is quality (Elon Musk certified).
