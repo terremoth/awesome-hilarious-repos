@@ -81,6 +81,7 @@ List of all (?) available and funniest GitHub repos. Contribute if you know othe
 - [ratty](https://github.com/orhun/ratty) - a terminal for rodents 🐀🧀
 - [linusrants](https://github.com/corollari/linusrants) - Linus' rants classified by amount of hate.
 - [codemaxxing](https://github.com/jshchnz/codemaxxing) - write enterprise-grade code on the fly. Because quantity is quality (Elon Musk certified).
+- [tokenmaxxingman](https://github.com/KangaZero/tokenmaxxingman) - why save tokens when you can maximize them? Vibe-coded, AI-slop-certified, and empirically benchmarked to waste as many tokens as inhumanly possible.
 
 ## Rules, Advices, Licenses, Standards & Patterns
 
