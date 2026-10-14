@@ -81,6 +81,7 @@ List of all (?) available and funniest GitHub repos. Contribute if you know othe
 - [ratty](https://github.com/orhun/ratty) - a terminal for rodents 🐀🧀
 - [linusrants](https://github.com/corollari/linusrants) - Linus' rants classified by amount of hate.
 - [codemaxxing](https://github.com/jshchnz/codemaxxing) - write enterprise-grade code on the fly. Because quantity is quality (Elon Musk certified).
+- [Bardly](https://github.com/pragyaangaur/Bardly) - A URL expander, the opposite of a URL shortener, that turns any link into a longer one whose path is a line of Shakespeare.
 
 ## Rules, Advices, Licenses, Standards & Patterns
 
